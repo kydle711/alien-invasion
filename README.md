@@ -1,8 +1,8 @@
-##ALIEN INVASION
+## ALIEN INVASION
 
 I created this game following a tutorial from a book I purchased. It was very useful for learning python classes and the pygame library. My plan is to continue to add improvements to the game.
 
-#Possible improvements:
+# Possible improvements:
 level counter
 score counter
 lives
